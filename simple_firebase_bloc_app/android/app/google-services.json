@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357792314356",
+    "project_id": "simple-firebase-bloc-app",
+    "storage_bucket": "simple-firebase-bloc-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357792314356:android:95614dd321b476893abfa1",
+        "android_client_info": {
+          "package_name": "com.example.simple_firebase_bloc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJ6OAbm4mhpDl8Xkw5qkweK0Vpz2a7HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
